@@ -41,4 +41,4 @@ Ensure that dataset is on the same folder as the program and run the python prog
 
 ### Debugging
 To ensure that the gradient descent is working proper, we plot a graph between number of iterations and the cost function,
-![Learning Curve](D:\II Plutocrat45 II\Github\Logistic_Regression\Learning_Curve.jpeg)
+![Learning Curve](https://i.stack.imgur.com/A1gaU.png)
